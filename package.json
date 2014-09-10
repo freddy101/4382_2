@@ -1,0 +1,15 @@
+{
+  "author" : "Dunlap",
+  "name" : "censorfy_cidm4382_fall2014_dunlap",
+  "version" : "1.0.4",
+  "description" : "Censors words from a list of words",
+  "main" : "censortext",
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/ahuimanu/CIDM4382"
+  },
+  "keywords" : ["WTAMU", "CIS", "CIDM4382", "Censor", "Words"],
+  "dependencies" : {},
+  "engines" : { "node": "*" }
+}
